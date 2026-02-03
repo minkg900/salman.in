@@ -1,0 +1,16 @@
+
+body{
+    margin: 0;
+   
+background-size: cover;
+     display: flex;
+    justify-content: center;
+    align-items: flex-start;
+     background-color: rgb(198,148, 124);
+}
+.video{
+    display: flex;
+    justify-content: center;
+    border: 6px solid black;
+    margin-top: 100px;
+}
